@@ -1,4 +1,4 @@
-Heroku environment variables are not yet supported.
+This forked repo can be removed when the conda-buildpack supports heroku environment variables.
 
 https://github.com/kennethreitz/conda-buildpack/pull/23
 
