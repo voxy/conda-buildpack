@@ -1,3 +1,7 @@
+Heroku environment variables are not yet supported.
+
+https://github.com/kennethreitz/conda-buildpack/pull/23
+
 Conda Buildpack
 ===============
 
