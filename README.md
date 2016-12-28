@@ -1,6 +1,8 @@
-This forked repo can be removed when the conda-buildpack supports heroku environment variables.
+This forked repo can be removed when the conda-buildpack supports heroku environment variables and python3.
 
 https://github.com/kennethreitz/conda-buildpack/pull/23
+
+https://github.com/voxy/conda-buildpack/blob/master/bin/steps/conda_compile#L3
 
 Conda Buildpack
 ===============
